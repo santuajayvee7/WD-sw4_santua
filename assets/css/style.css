@@ -156,16 +156,17 @@ img {
 /* Tab Content */
 .tab-content-flex {
     display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next line */
     justify-content: space-between;
-    gap: 20px; 
+    gap: 20px; /* Adjust the gap between items */
 }
 
 .tab-content-item {
-    flex: 1 1 100%; 
-    max-width: calc(25% - 20px); 
-    padding: 20px;
+    flex: 1 1 calc(25% - 20px); 
+    max-width: calc(32% - 27px);
+    padding: 35px;
     border: 1px solid #ccc;
-    border-radius: 8px;
+    border-radius: 1px;
     background-color: #f5f5f5;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -201,13 +202,34 @@ img {
     padding: 0 20px;
 }
 
-.tab-text {
-    margin-top: 10px; 
+/* <---------- Text below -------------> */
+
+.tab-text-container {
+    margin-top: 20px; /* Adjust spacing between tab content and text containers */
 }
 
-.tab-text p {
-    font-size: 14px; 
-    color: #666; 
+.tab-text1,
+.tab-text2,
+.tab-text3 {
+    display: none; /* Hide all text containers by default */
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 10px; /* Adjust margin between each text container */
+}
+
+.tab-text1 p,
+.tab-text2 p,
+.tab-text3 p {
+    margin: 0; /* Remove default margin from paragraphs */
+}
+
+/* Show respective text container based on active tab */
+.tab-content-item.active-tab1 .tab-text1,
+.tab-content-item.active-tab2 .tab-text2,
+.tab-content-item.active-tab3 .tab-text3 {
+    display: block;
 }
 
 /* <-------- Footer -------*/
