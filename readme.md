@@ -4,12 +4,12 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/santuajayvee7">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork 4 - Feature Page</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=santuajayvee7/WD-sw4_santua)
 
 ---
 
@@ -57,13 +57,13 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This project showcases a dynamic feature section designed to highlight a series of engaging content pieces. The header introduces the "PARANOIA" music video teaser with a prominent logo and sign-in option. Below, the tabs section categorizes content such as mini cinematics and promotional materials, each accompanied by play buttons and descriptive text. Additional details for each feature are accessible in the accompanying text section, ensuring users can easily navigate and explore the diverse offerings. A visually appealing divider separates these sections, providing a structured and user-friendly browsing experience.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project - This project showcases a dynamic feature section designed to highlight a series of engaging content pieces.
+- Whats the purpose - In essence, the purpose is to create a compelling digital environment that effectively promotes and showcases featured content while enhancing user interaction and satisfaction.
+- What are key components - HTML Structure & CSS Styling
+- What technology used and how it is used - HTML for defining elements such as headers, navigation bars, sections, links, and content containers. CSS for defining styles such as colors, fonts, margins, padding, positioning, and responsiveness. It's used to make elements visually appealing and ensure consistent styling across the site.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
