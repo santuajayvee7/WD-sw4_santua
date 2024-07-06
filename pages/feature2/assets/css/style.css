@@ -197,6 +197,7 @@ html {
     font-weight: bold;
     font-weight: 700;
     line-height: 1.2;
+  
   }
   
   .article-body {
@@ -208,7 +209,7 @@ html {
   
   .article-content {
     flex: 1;
-    margin-top: 5px;
+    margin-top: 20px;
   }
   
   .article-info {
