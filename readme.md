@@ -57,7 +57,7 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-This project showcases a dynamic feature section designed to highlight a series of engaging content pieces. The header introduces the "PARANOIA" music video teaser with a prominent logo and sign-in option. Below, the tabs section categorizes content such as mini cinematics and promotional materials, each accompanied by play buttons and descriptive text. Additional details for each feature are accessible in the accompanying text section, ensuring users can easily navigate and explore the diverse offerings. A visually appealing divider separates these sections, providing a structured and user-friendly browsing experience.
+This project showcases the feature of the product
 
 Guiding Question:
 - What is the project - This project showcases a dynamic feature section designed to highlight a series of engaging content pieces.
@@ -68,9 +68,9 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- HTML Structure
+- CSS Styling
+- Multipage Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,4 +117,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Samsung | Contents of Feature | https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php|
+| Apple   | Ceontent of Feature | https://www.apple.com/ph/shop/buy-iphone/iphone-15         |
